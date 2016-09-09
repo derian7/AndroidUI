@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Movie Titles -->
+  <string-array name="movie_titles">
+    <item>@string/antmanTitle</item>
+    <item>@string/captainAmericaTitle</item>
+    <item>@string/doctorStrangeTitle</item>
+    <item>@string/avnegersTitle</item>
+  </string-array>
+
+  <!-- Movie Titles Shorted Versions -->
+  <string-array name="movie_titles_short">
+    <item>@string/antmanTitleShort</item>
+    <item>@string/captainAmericaTitleShort</item>
+    <item>@string/doctorStrangeTitleShort</item>
+    <item>@string/avengersTitleShort</item>
+  </string-array>
+
+  <!-- Movie Descriptions -->
+  <string-array name="movie_descriptions">
+    <item>@string/antmanDescription</item>
+    <item>@string/captainAmericaDescription</item>
+    <item>@string/doctorStrangeDescription</item>
+    <item>@string/avengersDescription</item>
+  </string-array>
+
+</resources>
